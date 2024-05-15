@@ -24,14 +24,11 @@ Andy Mena</a></h1>
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,react,nodejs,mysql,tailwind,ts)](https://skillicons.dev)
+ 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,react,nodejs,mysql,tailwind,ts)](https://skillicons.dev)
        
-  </div>
 
 </p>
-
-### Blogs posts
 
 
 
