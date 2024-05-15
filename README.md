@@ -6,7 +6,7 @@ Andy Mena</a></h1>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://www.pinterest.com/pin/1026117096335552153/">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 </a>
 
 
