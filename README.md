@@ -1,12 +1,12 @@
 
-<h1 align="center">Hola a Todos!👋, Soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hola a Todos!👋, Soy <a href="https://portafolio-nextjs-beta.vercel.app/" target="blank">
 Andy Mena</a></h1>
-<h3 align="center">Desarrollador de aplicaciones web</h3>
+<h3 align="center">Desarrollador web</h3>
 
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://drive.google.com/drive/folders/1Gn5kCiOzVX_A5QfdOFFXQwrZDsM2mNT9">
 </a>
 
 - 🌱 Para mis proyectos, utilizo tecnologias como React, Node, express, MongoDB, Mysql, Typescript.
