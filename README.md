@@ -17,16 +17,11 @@ Andy Mena</a></h1>
 
 - 📧 Puedes Contactarme para trabajar juntos **menaandy198@gmail.com**
 
-- 🌐 Accede a mi portafolio y mira mis proyectos <a href="https://portafolio-nextjs-beta.vercel.app/" style="padding: 20px; background-color: green; color: white;" target="blank">Ver Portafolio</a>
+- 🌐 Accede a mi portafolio y mira mis proyectos <a href="https://portafolio-nextjs-beta.vercel.app/" style="padding: 50px; background-color: green; color: white;" target="blank">Ver Portafolio</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Mis Habilidades 👌</h3>
 
 <p align="center">
- 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,react,nodejs,mysql,tailwind,ts)](https://skillicons.dev)
-       
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,react,nodejs,mysql,tailwind,ts)](https://skillicons.dev)       
 </p>
 
-
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
