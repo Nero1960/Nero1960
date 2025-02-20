@@ -6,7 +6,7 @@ Andy Mena</a></h1>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm10bWx5dnl5NmtwMnU3bjJpNGphdGx5bmlqc256c2gzOXd2bmd1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNuMTYzaWhkODgzcnQ2dmRlbWUxY3pxaHB4b2k4dmV0dWp0NjZ1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jfF6mIPumEzN9QW0kL/giphy.gif">
 </a>
 
 - 🌱 Para mis proyectos, utilizo tecnologias como React, Node, express, MongoDB, Mysql, Typescript.
